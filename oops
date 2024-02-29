@@ -1,0 +1,73 @@
+1)
+ box has lesser price
+
+2)
+
+Enter the number of rows and columns
+2
+2
+Enter the elements of matrix1:
+45
+91
+36
+74
+Enter the elements of matrix2:
+30
+52
+48
+66
+sum of matrix :
+75	143	
+84	140	
+
+3)
+Complex Numbers Are:
+5+4i
+7+9i
+After Addition = 12+13i
+
+4)
+Enter Row and Column
+2
+2
+Enter Matrix
+34
+50
+50
+34
+34	50	
+50	34	
+It is Symmetric
+
+5)
+
+__PROCESSOR INFORMATION__
+No of Cores=12
+Manufacturer Name=manufact name
+
+__RAW INFORMATION__
+Memory=126.0GB
+Manufacturer Name=INTEL
+
+6)
+
+Enter number of strings you would like to enter:
+4
+Enter the strings one by one
+job
+honest
+year
+before
+The strings before sorting:
+job
+honest
+year
+before
+
+The strings after sorting:
+before
+honest
+job
+year
+
+
