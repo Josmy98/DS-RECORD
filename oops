@@ -1,8 +1,8 @@
-1)
+Q1)
  box has lesser price
 
-2)
 
+Q2)
 Enter the number of rows and columns
 2
 2
@@ -20,13 +20,15 @@ sum of matrix :
 75	143	
 84	140	
 
-3)
+
+Q3)
 Complex Numbers Are:
 5+4i
 7+9i
 After Addition = 12+13i
 
-4)
+
+Q4)
 Enter Row and Column
 2
 2
@@ -39,7 +41,9 @@ Enter Matrix
 50	34	
 It is Symmetric
 
-5)
+
+
+Q5)
 
 __PROCESSOR INFORMATION__
 No of Cores=12
@@ -49,7 +53,9 @@ __RAW INFORMATION__
 Memory=126.0GB
 Manufacturer Name=INTEL
 
-6)
+
+
+Q6)
 
 Enter number of strings you would like to enter:
 4
@@ -70,4 +76,536 @@ honest
 job
 year
 
+
+
+Q7)
+Enter the number of elements to be inserted
+6    
+Start to enter those 6 elements:
+78
+90
+29
+41
+50
+83
+Enter the element to be searched:
+41
+41 is present at index3!
+
+
+
+Q8)
+
+Original Text: Object Oriented Programming
+
+The given text is empty->false
+
+Length of the given text: 27
+
+To Upper Case: OBJECT ORIENTED PROGRAMMING
+
+To Lower Case: object oriented programming
+
+Substring: Oriented Programming
+
+Subsequence: Oriented
+
+Intern: Object Oriented Programming
+
+Replace O with $: $bject $riented Programming
+
+Replace all text with 'Java Lab': Java Lab
+
+Replace first word: Java Oriented Programming
+
+Character at index 8:  r
+
+ASCII value of character at index 8:  114
+
+First Index of Character 'O': 0
+
+Last Index of Character 'O': 7
+
+Concatenation with 'Lab': Object Oriented Programming Lab
+
+__Comparison__
+
+If the value is 0, both are equal. Otherwise unequal!
+
+Text for Comparison:object oriented programming->-32
+Text for Comparison:Object Oriented Programming->0
+
+
+
+
+Q9)
+Enter the No. of Employee's
+3
+
+Enter the Employee details
+Employee number : 
+456
+Name : 
+tinu
+Salary : 
+50000
+
+Enter the Employee details
+Employee number : 
+812
+Name : 
+reenu
+Salary : 
+65000
+
+Enter the Employee details
+Employee number : 
+391
+Name : 
+sinu
+Salary : 
+500000
+
+Informations of all the employee's
+Empolyee No :456
+Name :tinu
+Salary Amount:50000.0
+
+Empolyee No :812
+Name :reenu
+Salary Amount:65000.0
+
+Empolyee No :391
+Name :sinu
+Salary Amount:500000.0
+
+
+Enter the Employee Number to get details of a employee
+812
+
+Employee details
+Empolyee No :812
+Name :reenu
+Salary Amount:65000.0
+
+
+
+
+Q10)
+
+Enter the length and breadth:
+8
+2
+Area of rectangle: 16
+Enter the side:
+6
+Area of square: 36
+Enter the base and height:
+3
+9
+Area of triangle: 13.5
+Enter the radius:
+2.5
+Area of circle: 19.625
+
+
+
+Q11)
+
+Enter the No. of Employee's
+3
+
+Enter Employee id: 
+541
+
+Enter Employee Name: 
+geethu
+
+Enter Salary: 
+500000
+
+Enter Address: 
+nirappel
+
+Enter department: 
+management
+
+Enter Subject: 
+business management
+
+Enter Employee id: 
+623
+
+Enter Employee Name: 
+seena
+
+Enter Salary: 
+650000
+
+Enter Address: 
+tadathil
+
+Enter department: 
+computer
+
+Enter Subject: 
+computer network
+
+Enter Employee id: 
+412
+
+Enter Employee Name: 
+reema
+
+Enter Salary: 
+550000
+
+Enter Address: 
+chirakkal
+
+Enter department: 
+literature
+
+Enter Subject: 
+english
+
+Informations of all the employee's
+
+1).
+Employee id: 541
+Name: geethu
+Salary: 500000.0
+Address: nirappel
+Department: management
+Subject: business
+
+2).
+Employee id: 623
+Name: seena
+Salary: 650000.0
+Address: tadathil
+Department: computer
+Subject: computer
+
+3).
+Employee id: 412
+Name: reema
+Salary: 550000.0
+Address: chirakkal
+Department: literature
+Subject: english
+
+
+
+Q12)
+Enter the No. of Teacher's
+2
+
+Enter the Teacher Details
+1).
+Name: 
+jithin
+
+Gender: 
+male
+
+Address: 
+murikkananical
+
+Age: 
+25
+
+Employee id: 
+781
+
+Company name: 
+infosys
+
+Qualification: 
+mca
+
+Salary: 
+600000
+
+Subject: 
+python
+
+Department: 
+computer
+
+Teacher Id: 
+521
+
+2).
+
+Name: 
+arya
+
+Gender: 
+female
+
+Address: 
+edakkatt
+
+Age: 
+28
+
+Employee id: 
+342
+
+Company name: 
+eastern
+
+Qualification: 
+mba
+
+Salary: 
+60000
+
+Subject: 
+business
+
+Department:
+management 
+
+Teacher Id: 
+879
+
+Informations of all the Teacher's
+
+
+1).
+Name: jithin
+Gender: male
+Address: murikkananical
+Age: 25
+Employee id: 781
+Company Name: infosys
+Qualification: mca
+Salary: 600000
+Subject: python
+Department: computer
+Teacher id: 521
+
+2).
+Name: arya
+Gender: female
+Address: edakkatt
+Age: 28
+Employee id: 342
+Company Name: eastern
+Qualification: mba
+Salary: 60000
+Subject: business
+Department: management
+Teacher id: 879
+
+
+
+Q13)
+
+Enter the No. of Literature Books
+3
+
+ Enter the Literature Book Details
+
+
+1).
+
+ Book : 
+macbeth
+
+ Publisher: 
+calimera
+
+2).
+
+ Book : 
+gitrj
+
+ Publisher: 
+hhgfrr
+
+3).
+
+ Book : 
+tyerkj
+
+ Publisher: 
+ffrt
+
+Enter the No. of Fiction Books
+2
+
+ Enter the Fiction Book Details
+
+
+1).
+
+ Book : 
+ffertret
+
+ Publisher: 
+bdgdg
+
+2).
+
+ Book : 
+trteu
+
+ Publisher: 
+vdtdet
+
+Informations of all the Literature Books
+
+1).
+Publisher :macbeth
+Book :calimera
+
+2).
+Publisher :gitrj
+Book :hhgfrr
+
+3).
+Publisher :tyerkj
+Book :ffrt
+
+Informations of all the Fiction Books
+
+1).
+Publisher :ffertret
+Book :bdgdg
+
+2).
+Publisher :trteu
+Book :vdtdet
+
+
+
+Q14)
+Please input the student details. .
+
+Enter the Roll No:
+21
+Enter the Name:
+hgstt
+
+Input the Subject marks. . 
+
+Enter marks for Subject-1:
+35
+Enter marks for Subject-2:
+45
+Enter marks for Subject-3:
+50
+
+Input the Sports data. . 
+
+Enter Event-1:
+dttdet
+Enter score:
+41
+Enter Event-2
+hgdff
+Enter score:
+30
+
+    REPORT CARD    
+
+STUDENT PROFILE
+******************
+Roll No: 21
+Name: hgstt
+
+ACADEMIC SCORE
+******************
+Subject-1 Marks: 35.0
+Subject-2 Marks: 45.0
+Subject-3 Marks: 50.0
+TOTAL:130.0
+
+SPORTS SCORE
+************
+Event-1: dttdet
+Score: 41
+Event-2: hgdff
+Score: 30
+TOTAL:71
+
+
+
+Q15)
+1.Circle
+2.Rectangle
+3.exit
+Enter your choice:
+1
+Enter the radius of the circle:
+5
+Area of the circle: 78.5
+Perimeter of the circle: 31.400000000000002
+
+1.Circle
+2.Rectangle
+3.exit
+Enter your choice:
+2
+Enter the length of the rectangle:
+8
+Enter the breadth of the rectangle:
+2
+Area of a rectangle: 16.0
+Perimeter of a rectangle: 20.0
+
+1.Circle
+2.Rectangle
+3.exit
+Enter your choice:
+3
+Exited...
+
+
+
+Q16)
+Order no.:
+2
+Enter the date:
+5/02/24
+Enter how many products are there:
+3
+
+Enter product id:
+768
+Enter product name:
+bghhh
+Enter the Quantity:
+4
+Enter the unit price:
+50
+
+Enter product id:
+357
+Enter product name:
+gdsfrr
+Enter the Quantity:
+10
+Enter the unit price:
+75
+
+Enter product id:
+623
+Enter product name:
+hggfft
+Enter the Quantity:
+5
+Enter the unit price:
+10
+Date:5/02/24
+Product Id 	Name	   Quantity	   unit price	 Total 
+--------------------------------------------------------------
+768		bghhh		4		50.0	200.0
+357		gdsfrr		10		75.0	750.0
+623		hggfft		5		10.0	50.0
+--------------------------------------------------------------
+			Net.Amount	1000.0
 
